@@ -1,0 +1,6 @@
+name: StrafAndWallJump
+version: '${project.version}'
+main: strafandwalljump.strafandwalljump.StrafAndWallJump
+api-version: 1.16
+authors: [ MomiNeko ]
+description: StrafAndWallJump
